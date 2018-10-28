@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: CP112.h
-Description: CP112 (VGA Code Page 112) font for DisplayCore
+Description: CP112 (VGA Code Page 112)
